@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "item": "Sela de Cavalo",
+    "local": "Armazém 1",
+    "data": "2026-09-17",
+    "valor": 1500.00,
+    "patrimonio":"PL223"
+  },
+  {
+    "id": 2,
+    "item": "Arado",
+    "local": "Armazém 2",
+    "data": "2026-09-17",
+    "valor": 800.00,
+    "patrimonio":"PL224"
+  },
+    {
+        "id": 3,
+        "item": "Trator",
+        "local": "Armazém 3",
+        "data": "2026-09-17",
+        "valor": 50000.00,
+        "patrimonio":"PL225"
+    }
+]
